@@ -42,6 +42,16 @@ Device model: NIKON D800E
 Dimensions: 3840 × 2400
 ```
 
+<img src="https://github.com/ofcold/desktop-pictures/raw/master/Landscape/Incipient%20Dawn.jpg?sanitize=true" width="220">
+
+
+### Incipient Dawn
+```
+Dimensions: 3840 × 2400
+Device make: Phase One
+Device model: IQ3 100MP
+```
+
 <img src="https://github.com/ofcold/desktop-pictures/raw/master/Landscape/Freshly%20Coated%20Matterhorn.jpg?sanitize=true" width="220">
 
 
